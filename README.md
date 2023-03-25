@@ -8,5 +8,5 @@ console.log(getNameSuggestion('langchain を試してみるリポジトリの名
 
 1. `pnpm i`
 2. `cp .env.example .env`
-3. Set your OpenAI Api Key to .env
+3. Set your OpenAI API Key to .env
 4. `pnpm execute`
